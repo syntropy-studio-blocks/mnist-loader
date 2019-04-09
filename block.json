@@ -1,0 +1,14 @@
+{
+  "source": "code.js",
+  "inputs": [],
+  "outputs": [
+    {
+      "id": "train",
+      "description": "An object containing the labels and images for the training set"
+    },
+    {
+      "id": "test",
+      "description": "An object containing the labels and images for the test set"
+    }
+  ]
+}
